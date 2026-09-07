@@ -24,7 +24,7 @@ Atualmente atuo na **Portnet Tecnologia**
 - AWS: **AWS Cloud Practitioner (Foundational)**  
 - Oracle: **Oracle Cloud Certified**  
 - CompTIA: **Network+**
-- LPI: **Linux Essentials **
+- LPI: **Linux Essentials**
 
 ---
 
