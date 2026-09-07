@@ -3,7 +3,7 @@
 ## 🧑‍💻 Sobre mim
 Profissional de TI com foco em **Infraestrutura**, **Redes**, **Cloud Architecture** e **Segurança da Informação**. Apaixonado por tecnologia, automação e boas práticas de FinOps.
 
-Atualmente atuo na **Portnet Tecnologia** e sou estudante no **Centro Universitário UNIFAMINAS**.
+Atualmente atuo na **Portnet Tecnologia** 
 
 📍 Contagem – MG, Brasil
 
